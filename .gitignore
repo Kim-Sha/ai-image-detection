@@ -1,3 +1,6 @@
+# Data folder for extracted features
+data/
+
 # MacOS
 .DS_Store
 
