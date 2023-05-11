@@ -1,5 +1,6 @@
 # Data folder for extracted features
 data/
+models/
 
 # MacOS
 .DS_Store
